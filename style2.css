@@ -1,0 +1,161 @@
+
+body { background:#05c2f9; margin:0px; padding:0px; font-size:12px; color:#000000; text-align:center; font-family:Arial, Helvetica, sans-serif;}
+
+p {margin:0px;}
+
+form {margin:0px;}
+
+img {border:none; margin:0px;}
+
+.down {clear:both; width:100%}
+
+.outer { width:730px; text-align:left ; margin:0px auto; padding:0px; background: url(/images/header.jpg) top left no-repeat; position:relative; }
+.outerInner { width:750px; text-align:left ; margin:0px auto; padding:0px; background: url(/images/header1.jpg) 10px 0px no-repeat ; position:relative; }
+
+.top {width:100%; height:234px; clear:both;}
+
+.searchmargin { width:187px; float:left; }
+.search {width:366px; float:left;height:93px;padding-left:30px;}
+.searchBox { float:left; width:290px; margin-top:10px; height:50px;}
+.searchTite {font-size:13px; font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold; text-align:center; line-height:18px; margin-bottom:9px; margin-left:25px;}
+
+.meanSeachBox1{width:350px; float:left; padding-left: 10px;}
+.meanSeachBox{width:350px; float:left; padding:0px}
+.meanSeachBox div.b1{clear:both; width:100%; height:34px}
+.meanSeachBox div.b2{clear:both; width:100%; margin-top:2px}
+.meanSeachBox div.b2 div.space{width:100px; float:left}
+.meanSeachBox div.b2 div.r1{width:65px; float:left}
+.meanSeachBox div.b2 div.r2{width:110px; float:left}
+
+.searchBtn{margin-top:0px; padding-left: 20px; width:50px; float:left}
+.searchInput { border: 1px solid #ffffff; margin:13px 0px 0px 90px; font-size:11px; width:170px;}
+.searchInput1 { border: 1px solid #ffffff; margin:13px 0px 0px 65px; font-size:11px; width:170px;}
+
+.nav { width:656px; float:right ;}
+.innerNav { width:666px; float:right ;}
+
+.center {width:100%; background:url(/images/content_top.gif) 1px 0px no-repeat; height:826px; }
+.centerInner {width:100%; background:url(/images/content_top1.gif) 10px 0px no-repeat; height:826px; }
+
+.innerlftBar { width:130px;  float:left; font-family:Arial, Helvetica, sans-serif;}
+.innerlftBarpadding {padding:170px 0px 0px 0px; width:130px;}
+.innerlftBarpadding strong {font-size:13px;}
+.innerlftBarpadding strong a {color:#000000; text-decoration:none; font-size:12px;}
+.innerlftBarpadding strong a:hover {color:#000000; text-decoration:none; font-size:12px;}
+
+.innerlftBar a{color:#000000; text-decoration:none; font-size:10px}
+.innerlftBar a:hover{color:#FF0000; text-decoration:none; font-size:10px}
+
+
+.lftBar { width:119px;  float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold;}
+.lftBarpadding {padding:170px 0px 0px 0px;}
+.lftBar a{color:#000000; text-decoration:underline;}
+.lftBar a:hover{color:#FF0000; text-decoration:none;}
+
+
+
+.txt {font-size:14px; font-weight:bold;}
+
+.content1 {  width:599px;  float:left;  background:url(images/content_center2.gif) 0px -3px repeat-y}
+.content1 div.b1{background:url(images/content_top1.gif) -120px 0 no-repeat }
+.content1 div.b1 div.title{ padding-left:10px; line-height:28px; font-weight:bold; font-size:13px}
+.content1 div.b2{background:url(images/content_bottom1.gif) bottom left no-repeat ;  width:100%;}
+.content1 div.b2 div.tableTxt{padding-left: 15px; padding-right: 20px; padding-top:1px; line-height:18px}
+.content1 div.b2 div.space{float:left; height:550px; width:40px;}
+
+.content a{ text-decoration:none; color:#000000}
+.content a:hover{ text-decoration:underline; color:#cc0000}
+
+.content {  width:544px;  float:left;  background:url(images/content_center.gif) 0px 32px repeat-y}
+.content div.b1{background:url(images/content_top.gif) -119px 0 no-repeat }
+.content div.b1 div.title{ padding-left:10px; line-height:28px; font-weight:bold; font-size:13px}
+.content div.b2{background:url(images/content_bottom.gif) bottom left no-repeat ;  width:100%;}
+.content div.b2 div.tableTxt{ padding-left: 10px; padding-right: 10px; border:1px;}
+.content div.b2 div.space{float:left; height:548px; width:40px;}
+
+.content a{ text-decoration:none; color:#000000}
+.content a:hover{ text-decoration:underline; color:#cc0000}
+
+
+
+
+
+.greenBox{clear:both; width:105%; margin-bottom:20px}
+.greenBox div.b1{background:url(images/top-bar.gif) 0 0 no-repeat; clear:both; width:520px; height:28px; line-height:28px}
+.greenBox div.b2{background:url(images/center-strip.gif) 0 0 repeat-y; clear:both; width:520px;  }
+.greenBox div.b3{background:url(images/btm-bar.gif) 0 0 no-repeat; clear:both; width:520px; height:20px; }
+
+.greenSmallBox{clear:both; width:105%; margin-bottom:20px}
+.greenSmallBox div.b1{background:url(images/top-bar_small.gif) 0 0 no-repeat; clear:both; width:250px; height:28px; line-height:28px}
+.greenSmallBox div.b2{background:url(images/center-strip_small.gif) 0 0 repeat-y; clear:both; width:250px;  }
+.greenSmallBox div.b3{background:url(images/btm-bar_small.gif) 0 0 no-repeat; clear:both; width:250px; height:20px; }
+
+.blueBox{clear:both; width:105%; margin-bottom:20px}
+.blueBox div.b1{background:url(images/blue_top-bar.gif) 0 bottom no-repeat; clear:both; width:520px; height:27px; line-height:27px}
+.blueBox div.b2{background:url(images/blue-center-strip.gif) 0 0 repeat-y; clear:both; width:520px;  }
+.blueBox div.b3{background:url(images/blue-btm-bar.gif) 0 0 no-repeat; clear:both; width:520px; height:20px; }
+
+.blueSmallBox{clear:both; width:105%; margin-bottom:20px}
+.blueSmallBox div.b1{background:url(images/blue_top-bar_small.gif) 0 bottom no-repeat; clear:both; width:250px; height:27px; line-height:27px}
+.blueSmallBox div.b2{background:url(images/blue-center-strip_small.gif) 0 0 repeat-y; clear:both; width:250px;  }
+.blueSmallBox div.b3{background:url(images/blue-btm-bar_small.gif) 0 0 no-repeat; clear:both; width:250px; height:20px; }
+
+.redBox{clear:both; width:105%; margin-bottom:20px;}
+.redBox div.b1{background:url(images/red_bar_top-bar.gif) 0 bottom no-repeat; clear:both; width:520px; height:27px; line-height:27px}
+.redBox div.b2{background:url(images/red-center-strip.gif) 0 0 repeat-y; clear:both; width:520px;  }
+.redBox div.b3{background:url(images/red-btm-bar.gif) 0 0 no-repeat; clear:both; width:520px; height:20px; }
+
+.redSmallBox{clear:both; width:250px; margin-bottom:20px; }
+.redSmallBox div.b1{background:url(images/red_bar_top-bar_small.gif) 0 bottom no-repeat; clear:both; width:250px; height:27px; line-height:27px}
+.redSmallBox div.b2{background:url(images/red-center-strip_small.gif) 0 0 repeat-y; clear:both; width:250px;  }
+.redSmallBox div.b3{background:url(images/red-btm-bar_small.gif) 0 0 no-repeat; clear:both; width:250px; height:20px; }
+
+.yellowBox{clear:both; width:105%; margin-bottom:20px}
+.yellowBox div.b1{background:url(images/yellow_bar_top-bar.gif) 0 bottom no-repeat; clear:both; width:520px; height:27px; line-height:27px}
+.yellowBox div.b2{background:url(images/yellow-center-strip.gif) 0 0 repeat-y; clear:both; width:520px;  }
+.yellowBox div.b3{background:url(images/yellow-btm-bar.gif) 0 0 no-repeat; clear:both; width:520px; height:20px; }
+
+.yellowSmallBox{clear:both; width:105%; margin-bottom:20px}
+.yellowSmallBox div.b1{background:url(images/yellow_bar_top-bar_small.gif) 0 bottom no-repeat; clear:both; width:250px; height:27px; line-height:27px}
+.yellowSmallBox div.b2{background:url(images/yellow-center-strip_small.gif) 0 0 repeat-y; clear:both; width:250px;  }
+.yellowSmallBox div.b3{background:url(images/yellow-btm-bar_small.gif) 0 0 no-repeat; clear:both; width:250px; height:20px; }
+
+
+
+.back{ float:left; width:45%;}
+.next{ float:right; width:45%; text-align:right}
+
+.contentTxt {float:left;  width:465px; margin-top:55px; margin-bottom:50px ;}
+.contentTxt1 {float:left;  width:525px; margin-top:30px; margin-bottom:30px ;}
+
+
+.btmAds { width:620px; float:right ;}
+
+.adBox { width:250px; float:left; padding:0px 10px 0px 10px;  margin:10px 20px 0px 0px; font-size:11px;}
+.adBox strong {font-size:12px;}
+.adBox strong a { color:#000000; text-decoration:underline;}
+.adBox strong a:hover{ color:#000000; text-decoration:none;}
+.adBox a{color:#000000; text-decoration:underline;}
+.adBox a:hover{color:#FF0000; text-decoration:none;}
+
+.bottom {  width:100%;}
+
+.footer {  text-align:left; font-size:12px; font-weight:bold; }
+.footerTxt{line-height:30px; margin-left:30px  }
+
+.red {color:red; }
+.red a {color:red; text-decoration:none }
+.red a:hover{color:red; text-decoration:underline }
+
+.blue {color:mediumblue; }
+.blue a {color:mediumblue; text-decoration:none }
+.blue a:hover{color:mediumblue; text-decoration:underline }
+
+.yellow {color:yellow; }
+.yellow a {color:yellow; text-decoration:none }
+.yellow a:hover{color:yellow; text-decoration:underline }
+
+.green {color:lightgreen; }
+.green a {color:lightgreen; text-decoration:none }
+.green a:hover{color:lightgreen; text-decoration:underline }
+

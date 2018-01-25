@@ -1,0 +1,126 @@
+
+
+body, p, th, td, li, dd, b, a, font, fieldset, legend {
+font-family: Verdana, Lucida, Arial, Helvetica, sans-serif;
+}
+
+a:link.sites {color: #B33232; text-decoration:none;}
+a:visited.sites {color: #B33232; text-decoration:none;}
+a:hover.sites {color: #B33232; text-decoration:underline;}
+a:active.sites {color: #B33232; text-decoration:underline;}
+
+h2.sites {color: #B33232; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.sites_heading {font-size: 14px; color: #B33232; text-decoration:none;}
+a:visited.sites_heading {font-size: 14px; color: #B33232; text-decoration:none;}
+a:hover.sites_heading {font-size: 14px; color: #B33232; text-decoration:underline;}
+a:active.sites_heading {font-size: 14px; color: #B33232; text-decoration:underline;}
+
+a:link.jokes {color: #B33232; text-decoration:none;}
+a:visited.jokes {color: #B33232; text-decoration:none;}
+a:hover.jokes {color: #B33232; text-decoration:underline;}
+a:active.jokes {color: #B33232; text-decoration:underline;}
+
+h2.jokes {color: #B33232; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.jokes_heading {font-size: 14px; color: #B33232; text-decoration:none;}
+a:visited.jokes_heading {font-size: 14px; color: #B33232; text-decoration:none;}
+a:hover.jokes_heading {font-size: 14px; color: #B33232; text-decoration:underline;}
+a:active.jokes_heading {font-size: 14px; color: #B33232; text-decoration:underline;}
+
+a:link.dictionary {color: #004499; text-decoration:none;}
+a:visited.dictionary {color: #004499; text-decoration:none;}
+a:hover.dictionary {color: #004499; text-decoration:underline;}
+a:active.dictionary {color: #004499; text-decoration:underline;}
+
+h2.dictionary {color: #004499; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.dictionary_heading {font-size: 14px; color: #004499; text-decoration:none;}
+a:visited.dictionary_heading {font-size: 14px; color: #004499; text-decoration:none;}
+a:hover.dictionary_heading {font-size: 14px; color: #004499; text-decoration:underline;}
+a:active.dictionary_heading {font-size: 14px; color: #004499; text-decoration:underline;}
+
+a:link.thesaurus {color: #FF7F24; text-decoration:none;}
+a:visited.thesaurus {color: #FF7F24; text-decoration:none;}
+a:hover.thesaurus {color: #FF7F24; text-decoration:underline;}
+a:active.thesaurus {color: #FF7F24; text-decoration:underline;}
+
+h2.thesaurus {color: #FF7F24; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.thesaurus_heading {font-size: 14px; color: #FF7F24; text-decoration:none;}
+a:visited.thesaurus_heading {font-size: 14px; color: #FF7F24; text-decoration:none;}
+a:hover.thesaurus_heading {font-size: 14px; color: #FF7F24; text-decoration:underline;}
+a:active.thesaurus_heading {font-size: 14px; color: #FF7F24; text-decoration:underline;}
+
+a:link.recipes {color: #FF7F24; text-decoration:none;}
+a:visited.recipes {color: #FF7F24; text-decoration:none;}
+a:hover.recipes {color: #FF7F24; text-decoration:underline;}
+a:active.recipes {color: #FF7F24; text-decoration:underline;}
+
+h2.recipes {color: #FF7F24; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.recipes_heading {font-size: 14px; color: #FF7F24; text-decoration:none;}
+a:visited.recipes_heading {font-size: 14px; color: #FF7F24; text-decoration:none;}
+a:hover.recipes_heading {font-size: 14px; color: #FF7F24; text-decoration:underline;}
+a:active.recipes_heading {font-size: 14px; color: #FF7F24; text-decoration:underline;}
+
+a:link.translation {color: #B33232; text-decoration:none;}
+a:visited.translation {color: #B33232; text-decoration:none;}
+a:hover.translation {color: #B33232; text-decoration:underline;}
+a:active.translation {color: #B33232; text-decoration:underline;}
+
+h2.translation {color: #B33232; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.translation_heading {font-size: 14px; color: #B33232; text-decoration:none;}
+a:visited.translation_heading {font-size: 14px; color: #B33232; text-decoration:none;}
+a:hover.translation_heading {font-size: 14px; color: #B33232; text-decoration:underline;}
+a:active.translation_heading {font-size: 14px; color: #B33232; text-decoration:underline;}
+
+a:link.teachingresources {color: #66A72D; text-decoration:none;}
+a:visited.teachingresources {color: #66A72D; text-decoration:none;}
+a:hover.teachingresources {color: #66A72D; text-decoration:underline;}
+a:active.teachingresources {color: #66A72D; text-decoration:underline;}
+
+h2.teachingresources {color: #66A72D; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.teachingresources_heading {font-size: 14px; color: #66A72D; text-decoration:none;}
+a:visited.teachingresources_heading {font-size: 14px; color: #66A72D; text-decoration:none;}
+a:hover.teachingresources_heading {font-size: 14px; color: #66A72D; text-decoration:underline;}
+a:active.teachingresources_heading {font-size: 14px; color: #66A72D; text-decoration:underline;}
+
+a:link.encyclopedia {color: #66A72D; text-decoration:none;}
+a:visited.encyclopedia {color: #66A72D; text-decoration:none;}
+a:hover.encyclopedia {color: #66A72D; text-decoration:underline;}
+a:active.encyclopedia {color: #66A72D; text-decoration:underline;}
+
+h2.encyclopedia {color: #66A72D; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.encyclopedia_heading {font-size: 14px; color: #66A72D; text-decoration:none;}
+a:visited.encyclopedia_heading {font-size: 14px; color: #66A72D; text-decoration:none;}
+a:hover.encyclopedia_heading {font-size: 14px; color: #66A72D; text-decoration:underline;}
+a:active.encyclopedia_heading {font-size: 14px; color: #66A72D; text-decoration:underline;}
+
+a:link.baby_names {color: #66A72D; text-decoration:none;}
+a:visited.baby_names {color: #66A72D; text-decoration:none;}
+a:hover.baby_names {color: #66A72D; text-decoration:underline;}
+a:active.baby_names {color: #66A72D; text-decoration:underline;}
+
+h2.baby_names {color: #66A72D; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.baby_names_heading {font-size: 14px; color: #66A72D; text-decoration:none;}
+a:visited.baby_names_heading {font-size: 14px; color: #66A72D; text-decoration:none;}
+a:hover.baby_names_heading {font-size: 14px; color: #66A72D; text-decoration:underline;}
+a:active.baby_names_heading {font-size: 14px; color: #66A72D; text-decoration:underline;}
+
+a:link.games {color: #004499; text-decoration:none;}
+a:visited.games {color: #004499; text-decoration:none;}
+a:hover.games {color: #004499; text-decoration:underline;}
+a:active.games {color: #004499; text-decoration:underline;}
+
+h2.games {color: #004499; text-decoration:none; font-size:18px; padding-top:10px;}
+
+a:link.games_heading {font-size: 14px; color: #004499; text-decoration:none;}
+a:visited.games_heading {font-size: 14px; color: #004499; text-decoration:none;}
+a:hover.games_heading {font-size: 14px; color: #004499; text-decoration:underline;}
+a:active.games_heading {font-size: 14px; color: #004499; text-decoration:underline;}
+
